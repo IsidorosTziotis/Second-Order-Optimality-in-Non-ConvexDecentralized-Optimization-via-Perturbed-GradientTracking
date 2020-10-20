@@ -1,7 +1,7 @@
 # Distributed Nonconvex Optimization
 
 Welcome to the code repo for Distributed Nonconvex Optimization.
-This is the code used to generate all experiments in the paper "Second-Order Optimality in Non-ConvexDecentralized Optimization via Perturbed GradientTracking". 
+This is the code used to generate all experiments in the paper "Second-Order Optimality in Non-Convex Decentralized Optimization via Perturbed GradientTracking". 
 
 ## Setup
 

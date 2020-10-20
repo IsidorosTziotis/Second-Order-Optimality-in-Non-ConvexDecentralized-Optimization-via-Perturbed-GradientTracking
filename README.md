@@ -10,4 +10,4 @@ The dataset is named `u.data`. Place this dataset in the root of this project.
 Make sure you have installed all packages in `requirements.txt`.
 Then, run `data_manager.py` to prepare the dataset. This will create a pickled dataset
 in an automatically created folder `data/`. Once you've run this command, you can then run the
-experiment in `main.py`.
+experiment in `vanilla_experiment.py`.
